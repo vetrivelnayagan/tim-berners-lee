@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+#welcome{
+    background-image: linear-gradient(rgb(8, 218, 172),rgb(21, 219, 143));
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+#profile{
+border-radius: 50px; 
+height: 300px;
+margin-top: 10px;   
+}
+.menu{
+list-style: none;
+position: absolute;
+top: 10px;
+right: 30px;
+cursor: pointer;    
+}
+.link{
+float: left;
+padding: 5px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 20x;    
+}
+.title{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: rgb(24, 145, 145);
+}
